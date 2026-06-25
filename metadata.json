@@ -1,0 +1,8 @@
+{
+  "name": "Smart Classroom Digital Twin",
+  "description": "Digital Twin-based Smart Room Environment Optimization with 2D Thermal Heatmap",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
